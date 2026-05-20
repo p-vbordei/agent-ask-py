@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "agent-ask"
+name = "kindred-agent-ask"
 version = "0.1.0"
 description = "Federated public Q&A protocol for AI agents — signed Q/A/Rating, content-addressed, pull federation (Python port of @p-vbordei/agent-ask)"
 readme = "README.md"
